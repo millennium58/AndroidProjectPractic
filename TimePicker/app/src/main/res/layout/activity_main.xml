@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn"
+        android:layout_centerHorizontal="true"
+        android:text="click"></Button>
+    <TimePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/timePick"
+        android:layout_below="@+id/btn"
+        android:paddingTop="20dp"
+        android:layout_centerHorizontal="true">
+
+    </TimePicker>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text"
+        android:layout_below="@+id/timePick"
+        android:layout_centerHorizontal="true"
+        android:hint="time"
+        android:textStyle="bold"
+        android:textSize="30sp"></TextView>
+</RelativeLayout>

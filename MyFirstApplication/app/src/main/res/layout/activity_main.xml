@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+
+    android:padding="10dp"
+    android:rotationY="0"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/nameTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4CAF50"
+        android:text="@string/my_name"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+
+        android:textColor="@color/black"
+        android:textIsSelectable="true"
+        android:textSize="20sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="log in button"
+        android:id="@+id/logInBtn"
+        android:layout_margin="10dp"
+        android:onClick="showMsg"
+        >
+
+    </Button>
+
+    <TextView
+        android:id="@+id/logInBtnText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+    </TextView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="log out button"
+        android:id="@+id/logOutBtn"
+        android:layout_margin="10dp"
+        android:onClick="showMsg"
+        >
+
+    </Button>
+    <TextView
+        android:id="@+id/logOutBtnText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+    </TextView>
+
+
+    <TextView
+        android:id="@+id/ageTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEB3B"
+        android:layout_margin="30dp"
+        android:padding="50dp"
+        android:layout_marginLeft="20dp"
+        android:text="@string/age"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textIsSelectable="true"
+        android:textSize="18sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#3F51B5"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Padma"
+            android:textAllCaps="true"
+            android:textSize="18sp">
+
+        </TextView>
+
+
+    </ScrollView>
+</LinearLayout>

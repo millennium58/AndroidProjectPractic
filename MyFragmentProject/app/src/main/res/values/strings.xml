@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFragmentProject</string>
+    <string-array name="charecters">
+        <item>Jack Sparrow</item>
+        <item>Hanibal Lecter</item>
+        <item>Harry Potter</item>
+        <item>Jon Snow</item>
+        <item>Taiwin Lanister</item>
+        <item>Tony Stark</item>
+        <item>Maverick</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyListView</string>
+
+    <string-array name="Country_Name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Sri-lanka</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Sri-lanka</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomAdapterSpinner</string>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Sri-lanka</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+    </string-array>
+</resources>

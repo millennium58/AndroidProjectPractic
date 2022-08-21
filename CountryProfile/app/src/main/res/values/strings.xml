@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="BangladeshText">Bangladesh, country of South Asia, located in the delta of the Padma (Ganges [Ganga]) and Jamuna (Brahmaputra) rivers in the northeastern part of the Indian subcontinent.
+Bangladesh
+Bangladesh
+Encyclopædia Britannica, Inc.
+
+The riverine country of Bangladesh (“Land of the Bengals”) is one of the most densely populated countries in the world, and its people are predominantly Muslim. As the eastern portion of the historical region of Bengal, the area once formed, along with what is now the Indian state of West Bengal, the province of Bengal in British India. With the partition of India in 1947, it became the Pakistani province of East Bengal (later renamed East Pakistan), one of five provinces of Pakistan, separated from the other four by 1,100 miles (1,800 km) of Indian territory.\n
+        In 1971 it became the independent country of Bangladesh, with its capital at Dhaka.</string>
+    <string name="IndiaText">India holds many records. With almost 1.3 billion people, it comes second after China in population. It is the largest democracy in the world. Furthermore it is the largest country by area in South Asia and the seventh largest in the world. New Delhi is the capital city, but Mumbai is the largest city. Hindi is the official language and English is a second official language. English has great importance there as a lingua franca (common language).</string>
+    <string name="PakistanText">Pakistan is neighbour country of ours</string>
+
+</resources>

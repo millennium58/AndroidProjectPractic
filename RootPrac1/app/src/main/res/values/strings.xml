@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RootPrac1</string>
+    <string-array name="list_content">
+        <item>Account</item>
+        <item>Report</item>
+        <item>News</item>
+        <item>Settings</item>
+        <item>LogOut</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
